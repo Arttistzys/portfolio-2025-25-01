@@ -16,7 +16,7 @@ const Hero = (props) => (
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
-          window.location.href = '/files/resume1.pdf';
+          window.location.href = '/files/2025-Resume-t.pdf';
         }}>My Resume</Button>
       </LeftSection>
     </Section>
