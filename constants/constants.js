@@ -74,18 +74,6 @@ export const projects = [
     id: 5,
   },
   {
-    title: 'Tracking Project',
-    description: "Tracking project is website for management internal project. It can save any details or document. There are reports that any project is undocumented. You can see overview timeline for each project. This website also including roles and permissions.",
-    image: '/images/tracking-booking.png',
-    tags: ['React', 'UmiJS', 'NestJS', 'MongoDB'],
-    source: '#',
-    visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
-    imageList: ['/images/tracking-img/tracking2.png', '/images/tracking-img/tracking3.png', '/images/tracking-img/tracking4.png',
-      '/images/tracking-img/tracking5.png', '/images/tracking-img/tracking6.png', '/images/tracking-img/tracking7.png',
-      '/images/tracking-img/tracking8.png', '/images/tracking-img/tracking9.png',],
-    id: 5,
-  },
-  {
     title: 'Resource Management',
     description: "Resource management is website for store information of people in the organization. It can save any infomation or documents. Can display reports about salary and experience.",
     image: '/images/resource-booking.png',
